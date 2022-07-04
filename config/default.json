@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb://localhost:27017/ckdb",
+  "jwtSecret": "my-jwt-secret"
+}
